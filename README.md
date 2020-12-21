@@ -1,1 +1,1 @@
-# InfiniteRunner
+# Trex-game
